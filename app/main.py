@@ -19,4 +19,4 @@ def get_db():
 # Route - Root
 @app.get("/")
 def read_root():
-    return {"Rescue" : "Backend"}
+    return {"SDP" : "T23"}
